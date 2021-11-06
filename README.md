@@ -9,7 +9,7 @@ Random snippets of GCode for pre/post printing.
 ## Materials
 Cura Material files
 
-**Filename format:** ```<brand>_<color>_<type>```<br>
+**Filename format:** ```<brand>_<color>_<type>.xml.fdm_material```<br>
 examples:
   * ```hatchbox_black_pla```
   * ```protopasta_matte_white_htpla```
